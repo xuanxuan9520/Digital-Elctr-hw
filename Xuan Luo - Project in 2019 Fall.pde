@@ -1,6 +1,6 @@
 //!! Notice:In order to run successfully, you need to install Video library and OpenCV or Processing library. 
 //!! Notice:If the code can not be run successfully in Processing 3.5.4, please try Processing 3.4.
-//!! Notice:It might take few seconds to run the code. Please be patient.
+//!! Notice:It might take a few seconds to run the code. Please be patient.
 
 //Project Discription
 //Nanotechnology is now widely used in many fields such as biology, medicine and material. 
