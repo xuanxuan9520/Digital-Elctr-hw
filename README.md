@@ -1,2 +1,2 @@
-# Digital-Elctr-hw-1
+# Digital-Elctr-hw
 Homework 1
