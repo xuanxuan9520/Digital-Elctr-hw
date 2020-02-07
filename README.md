@@ -1,3 +1,6 @@
 # Digital-Elctr-hw
-Homework 1
-https://www.arduino.cc/en/Tutorial/BlinkWithoutDelay
+Week 2 Homework 
+
+I am interested in the project Arduino-Controlled Robotic Drum. The related link is https://www.instructables.com/id/Arduino-Controlled-Robotic-Drum/
+
+
