@@ -11,5 +11,5 @@ In my opinion, the invention of robotic drum has a huge impact on the interactio
 
 In addition, for beginners, the process of learning to play drums might be greatly simplified because of the invention of robotic drums. It may happen that beginners can play drums as long as they are able to control the keyboard.
 
-Week 3 Homework
+
 
