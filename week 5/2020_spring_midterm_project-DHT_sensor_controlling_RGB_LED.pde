@@ -1,14 +1,14 @@
-//define sensor 
+// define sensor 
 #include "DHT.h"
 #define DHTPIN 2     // Digital pin connected to the DHT sensor
 #define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 // Initialize DHT sensor.
 DHT dht(DHTPIN, DHTTYPE);
 
-//define led
+// define led
 #include <Adafruit_NeoPixel.h>
 #ifdef __AVR__
- #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
+#include <avr/power.h> // Required for 16 MHz Adafruit Trinket
 #endif
 #define PIN        11 // On Trinket or Gemma, suggest changing this to 1
 #define NUMPIXELS 50 // Popular NeoPixel ring size
@@ -17,12 +17,12 @@ Adafruit_NeoPixel pixels(NUMPIXELS, PIN, NEO_GRB + NEO_KHZ800);
 
 
 void setup() {
-  //initiate sensor 
+  // initiate sensor 
   Serial.begin(9600);
   Serial.println(F("DHTxx test!"));
   dht.begin();
   
-  //initiate led
+  // initiate led
   #if defined(__AVR_ATtiny85__) && (F_CPU == 16000000)
     clock_prescale_set(clock_div_1);
   #endif // END of Trinket-specific code.
@@ -32,7 +32,7 @@ void setup() {
 
 void loop() {
 
-  //sensor part
+  // sensor part
   delay(2000); // Wait a few seconds between measurements.
 
   float h = dht.readHumidity();
@@ -65,7 +65,7 @@ void loop() {
   Serial.println(F("°F"));
 
   
-  //led part
+  // led part
   pixels.clear(); // Set all pixel colors to 'off'
   for(int i=0; i<NUMPIXELS; i++) { // For each pixel...
     
