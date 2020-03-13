@@ -1,6 +1,6 @@
 // define sensor 
 #include "DHT.h"
-#define DHTPIN 2     // Digital pin connected to the DHT sensor
+#define DHTPIN 2  // Digital pin connected to the DHT sensor
 #define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 // Initialize DHT sensor.
 DHT dht(DHTPIN, DHTTYPE);
@@ -86,23 +86,23 @@ void loop() {
 
   // sound part
   if(h >= 50  || t >= 28) {
-    tone (12, 261 + (h - 0.3) * 10); //Middle C
+    tone (12, 261 + (h - 0.3) * 10); 
     delay(DELAY);
 
-    tone (12, 277 + (h - 0.3) * 2); //C#
+    tone (12, 277 + (h - 0.3) * 2); 
     delay(DELAY);
 
-    tone (12, 294 + (h - 0.3) * 3); //D
+    tone (12, 294 + (h - 0.3) * 3); 
     delay(DELAY);
   
-    tone (12, 311 + (h - 0.3) * 2); //D#
+    tone (12, 311 + (h - 0.3) * 2); 
     delay(DELAY);
    
-    tone (12, 330 + (h - 0.3) * 7); //E
+    tone (12, 330 + (h - 0.3) * 7); 
     delay(DELAY);
   }
   else {
-    tone (12, 261);
+    tone (12, 261); //Middle C
     delay(DELAY);
 
     tone (12, 277); //C#
