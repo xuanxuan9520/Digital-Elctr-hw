@@ -11,3 +11,25 @@ This project tries to transfer the environmental factors to the real tree in nat
 ## 2.Drawing of Initial Concept
 ### 2.1 Drawing of Initial Concept
 ![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/sketch%20of%20midterm%20project.png)
+
+### 2.2 Drawing of Final Concept
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/final%20sketch%20of%20midterm%20project.jpg)
+
+## 3. Picture of the First Iteration and Final Model
+### 3.1 First Iteration
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/first%20iteration%20of%20midterm%20project.jpeg)
+
+### 3.2 Final Model
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model%201.jpeg)
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model%202.jpeg)
+
+## 4.Video of Midterm Project
+This is the link of my mid-term project.
+https://youtu.be/PBOirFqleTc
+
+## 5.Code
+Please look at the file (midterm-DHTsensor_controlling_sound_and_LED.pde) in week 7 folder.
+
+## 6.Schematic
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20schematics.png)
+
