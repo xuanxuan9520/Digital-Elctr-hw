@@ -10,4 +10,4 @@ This project tries to transfer the environmental factors to the real tree in nat
 
 ## 2.Drawing of Initial Concept
 ### 2.1 Drawing of Initial Concept
-
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/sketch%20of%20midterm%20project.png)
