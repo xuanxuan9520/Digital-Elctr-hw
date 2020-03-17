@@ -20,8 +20,8 @@ This project tries to transfer the environmental factors to the real tree in nat
 ![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/first%20iteration%20of%20midterm%20project.jpeg)
 
 ### 3.2 Final Model
-![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model%201.jpeg)
-![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model%202.jpeg)
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model-1.jpeg)
+![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/midterm%20project%20final%20model-2.jpeg)
 
 ## 4.Video of Midterm Project
 This is the link of my mid-term project.
