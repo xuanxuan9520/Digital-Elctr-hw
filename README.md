@@ -1,4 +1,3 @@
-
 #Week 2 Homework 
 
 Intereting Project
@@ -11,6 +10,4 @@ In my opinion, the invention of robotic drum has a huge impact on the interactio
 
 In addition, for beginners, the process of learning to play drums might be greatly simplified because of the invention of robotic drums. It may happen that beginners can play drums as long as they are able to control the keyboard.
 
-#Midterm Project-week7
-Process: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
