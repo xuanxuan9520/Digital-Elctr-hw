@@ -28,7 +28,7 @@ This is the link of my mid-term project.
 https://youtu.be/PBOirFqleTc
 
 ## 5.Code
-Please look at the file (midterm-DHTsensor_controlling_sound_and_LED.pde) in week 7 folder.
+Please look at the file (midterm-DHTsensor_controlling_sound_and_LED.pde) in MIDTERM-week7 folder.
 
 ## 6.Schematic
 ![alt text](https://github.com/xuanxuan9520/Digital-Elctr-hw/blob/master/MIDTERM-week7/images-week7/schematics%20of%20midterm%20project.png)
