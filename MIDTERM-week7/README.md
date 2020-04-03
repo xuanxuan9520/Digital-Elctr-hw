@@ -1,4 +1,4 @@
-# Midterm Project Docummentation
+# Midterm Project Documentation
 ## 1. Description of Midterm Project
 This project senses the change of temperature and humidity so as to control the light of LED Tree and sound. The project is divided into three parts: tree model representing the real tree in nature, circuit and LED tree. 
 
